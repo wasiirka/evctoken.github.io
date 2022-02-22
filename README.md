@@ -1,2 +1,2 @@
 # evctoken.github.io
-Evctoken (service) created in eCash blockchain
+Evc token service (evc) created in eCash blockchain
